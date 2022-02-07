@@ -1,5 +1,5 @@
 # Secure-Communication-between-Client-and-Server
-Implementation of a secure tunnel between a client and server for massage sharing using Java language programming, Information Security final course project, Fall 2019 <br/>
+Implementation of a secure tunnel between a client and server for massage sharing using Java programming language, Information Security final course project, Fall 2019 <br/>
 ## phase 1
 - TCP connections have been stablished between each client and server, then files or messages have been shared between them with the use of symmetric algorithms.
 - The AES cryptographic algorithm has been used for message or file sharing. A session key has been exchanged between each client and server with symmetric encription algorithm and then all messages have been sent with this key.
